@@ -1,0 +1,1 @@
+import f from 'test-package/test.art';
